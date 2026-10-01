@@ -70,4 +70,4 @@ Tools and frameworks heavily utilized in this repository:
 
 1. **Clone the repository to your local machine:**
    ```bash
-   git clone [https://github.com/yourusername/python-mastery.git](https://github.com/yourusername/python-mastery.git)
+   git clone [https://github.com/yourusername/python-mastery.git](https://github.com/yourusername/python-mastery.git).
